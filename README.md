@@ -1,5 +1,4 @@
 # Assembly-32bit-Program
-                                             32-bits intel-syntax assembly program  
 The program takes the following inputs from the user:  
 * An integer n.  
 * n floating point numbers (using "double" type).
